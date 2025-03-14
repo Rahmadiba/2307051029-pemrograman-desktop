@@ -8,3 +8,14 @@ E:\Microsoft VS Code\2307051029_Tugas1_pemrograman desktop\2307051029_Tugas1_pem
 E:\Microsoft VS Code\2307051029_Tugas1_pemrograman desktop\2307051029_Tugas1_pemrograman desktop\obj\Debug\2307051029_Tugas1_pemrograman desktop.exe
 E:\Microsoft VS Code\2307051029_Tugas1_pemrograman desktop\2307051029_Tugas1_pemrograman desktop\obj\Debug\2307051029_Tugas1_pemrograman desktop.xml
 E:\Microsoft VS Code\2307051029_Tugas1_pemrograman desktop\2307051029_Tugas1_pemrograman desktop\obj\Debug\2307051029_Tugas1_pemrograman desktop.pdb
+E:\2307051029_Tugas1&2_pemrograman desktop\2307051029_Tugas1_pemrograman desktop\bin\Debug\2307051029_Tugas1_pemrograman desktop.exe.config
+E:\2307051029_Tugas1&2_pemrograman desktop\2307051029_Tugas1_pemrograman desktop\obj\Debug\2307051029_Tugas1_pemrograman desktop.exe
+E:\2307051029_Tugas1&2_pemrograman desktop\2307051029_Tugas1_pemrograman desktop\obj\Debug\2307051029_Tugas1_pemrograman desktop.xml
+E:\2307051029_Tugas1&2_pemrograman desktop\2307051029_Tugas1_pemrograman desktop\obj\Debug\2307051029_Tugas1_pemrograman desktop.pdb
+E:\2307051029_Tugas1&2_pemrograman desktop\2307051029_Tugas1_pemrograman desktop\bin\Debug\2307051029_Tugas1_pemrograman desktop.exe
+E:\2307051029_Tugas1&2_pemrograman desktop\2307051029_Tugas1_pemrograman desktop\bin\Debug\2307051029_Tugas1_pemrograman desktop.pdb
+E:\2307051029_Tugas1&2_pemrograman desktop\2307051029_Tugas1_pemrograman desktop\bin\Debug\2307051029_Tugas1_pemrograman desktop.xml
+E:\2307051029_Tugas1&2_pemrograman desktop\2307051029_Tugas1_pemrograman desktop\obj\Debug\_2307051029_Tugas1_pemrograman_desktop.Form1.resources
+E:\2307051029_Tugas1&2_pemrograman desktop\2307051029_Tugas1_pemrograman desktop\obj\Debug\_2307051029_Tugas1_pemrograman_desktop.Resources.resources
+E:\2307051029_Tugas1&2_pemrograman desktop\2307051029_Tugas1_pemrograman desktop\obj\Debug\2307051029_Tugas1_pemrograman desktop.vbproj.GenerateResource.Cache
+E:\2307051029_Tugas1&2_pemrograman desktop\2307051029_Tugas1_pemrograman desktop\bin\Debug\2307051029_pemrograman desktop.exe.config
